@@ -76,10 +76,10 @@ Dari dataset berikut ini, manakah yang termasuk Tidy Data? Dapatkah Anda menjela
 
 ```{r}
 table1 #tidak tidy
-table2 #tidak tidy, tahun tidak terurut
+table2 #tidy
 table3 #tidak tidy, tahun tidak terurut
-table4a #tidy
-table4b #tidy
+table4a #tidak tidy
+table4b #tidak tidy
 table5 #tidak tidy
 ```
 

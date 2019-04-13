@@ -325,7 +325,7 @@ table1 #tidak tidy
 ```
 
 ```r
-table2 #tidak tidy, tahun tidak terurut
+table2 #tidy
 ```
 
 ```
@@ -363,7 +363,7 @@ table3 #tidak tidy, tahun tidak terurut
 ```
 
 ```r
-table4a #tidy
+table4a #tidak tidy
 ```
 
 ```
@@ -376,7 +376,7 @@ table4a #tidy
 ```
 
 ```r
-table4b #tidy
+table4b #tidak tidy
 ```
 
 ```
